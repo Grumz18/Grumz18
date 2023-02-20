@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning develop SPA websites with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 🤔 I’m looking for help with [ReactRouter](https://reactrouter.com/en/main), [React](https://reactjs.org/docs/getting-started.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- 👷‍♂️ Occasionally I practice on the site: ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-
+- 👷‍♂️ Occasionally I practice on the site:
+### ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ### [![codewars](https://www.codewars.com/users/Groomzy/badges/large)](https://www.codewars.com/users/Groomzy/badges/large)
+### ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+### [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Groomzy&theme=dark)](https://github.com/Groomzy/leetcode-stats)
 ### [LINK](https://www.overleaf.com/project/60546090b5a9aaa1508520da) to my project using ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) and ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) .
