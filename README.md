@@ -74,11 +74,6 @@ Research project exploring adaptive mobile network policy enforcement using a mu
   <a href="https://grummm.ru">
     <img src="./assets/grummmLogo.png" alt="Grummm Logo" width="120" />
   </a>
-  <br><br>
-  <a href="https://grummm.ru">
-    <img src="./assets/logo_white.png" alt="Grummm Hero" width="400" />
-  </a>
-  <br><br>
   <a href="https://grummm.ru"><b>grummm.ru</b></a> — personal platform for posts, projects & runtime demos
 </div>
 <br>
