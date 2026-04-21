@@ -53,7 +53,7 @@
  
 ## 📡 Mobile Network Policy Lab
  
-> 🔒 **Private repository** — [`mobile-network-policy-lab`](https://github.com/Grumz18/mobile-network-policy-lab)
+> [`mobile-network-policy-lab`](https://github.com/Grumz18/mobile-network-policy-lab)
  
 Research project exploring adaptive mobile network policy enforcement using a multi-component architecture:
  
